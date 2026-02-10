@@ -1,0 +1,27 @@
+<svg viewBox="0 0 230 210" xmlns="http://www.w3.org/2000/svg">
+  <!-- Colores de caras: superior (claro), frontal (medio), lateral (oscuro) -->
+
+  <!-- ==== BARRA SUPERIOR (sin cambios) ==== -->
+  <!-- cara superior -->
+  <path fill="#e15a4b" d="M20 30 L175 10 L187 40 L32 60 Z"/>
+  <!-- cara frontal -->
+  <path fill="#c43a2e" d="M32 60 L187 40 L187 58 L32 78 Z"/>
+  <!-- cara lateral -->
+  <path fill="#8e231b" d="M175 10 L187 40 L187 58 L175 28 Z"/>
+
+  <!-- ==== BARRA MEDIA (mitad de longitud, misma ubicación y ángulo) ==== -->
+  <!-- cara superior (acortada) -->
+  <path fill="#e15a4b" d="M36 86 L113.5 76 L125.5 106 L48 116 Z"/>
+  <!-- cara frontal (acortada) -->
+  <path fill="#c43a2e" d="M48 116 L125.5 106 L125.5 124 L48 134 Z"/>
+  <!-- cara lateral (acortada) -->
+  <path fill="#8e231b" d="M113.5 76 L125.5 106 L125.5 124 L113.5 94 Z"/>
+
+  <!-- ==== BARRA INFERIOR (sin cambios) ==== -->
+  <!-- cara superior -->
+  <path fill="#e15a4b" d="M52 142 L207 122 L219 152 L64 172 Z"/>
+  <!-- cara frontal -->
+  <path fill="#c43a2e" d="M64 172 L219 152 L219 170 L64 190 Z"/>
+  <!-- cara lateral -->
+  <path fill="#8e231b" d="M207 122 L219 152 L219 170 L207 140 Z"/>
+</svg>
